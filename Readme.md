@@ -1,4 +1,4 @@
-# Bernsteins approximation of non holonomic motion equation
+# Bernstein's approximation of non holonomic motion equation
 
 Non-holonomic equation = ` ydot(t) = xdot(t) tan(theta(t)) `
 
@@ -6,7 +6,7 @@ Non-holonomic equation = ` ydot(t) = xdot(t) tan(theta(t)) `
 
 - Approximate x(t) and tan(theta(t)) with beizer curves
 
-- Differentiate the Bernsteins approximation 
+- Differentiate the Bernstein's approximation 
 
 - Find the weights of the bernstein polynomial for constraints
 
