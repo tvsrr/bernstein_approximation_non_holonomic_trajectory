@@ -17,6 +17,8 @@ Non-holonomic equation = ` ydot(t) = xdot(t) tan(theta(t)) `
 
 ## Bernstein's approximation is uniform even over higher derivatives 
 
+![alt text][logo]
+[logo]: www.github.com/tvsrr/bernstein_approximation_non_holonomic_trajectory/Bernstein_path.jpg 
 
 
 
